@@ -13,7 +13,7 @@
 <!-- Animated Typing: END -->
 
 
-## I'm an avid Data Explorer!
+## I'm an avid data explorer!
 
 <!-- Image Gif: START -->
 <img align="right" alt="GIF"  width= "250px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhid2NvY3NwdGVkd3h1Y2d3bjk5dzAxeGNkeDd4MjcwZ3M2cHl2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" />
@@ -38,11 +38,21 @@
 <!-- About Section: END -->
 
 
+### My Skills:
+
+<!-- Skills Section: START -->
+- Data preparation, quality assurance, and analysis
+- Data modeling
+- Dashboard development and reporting
+- Exploratory data analysis
+<!-- Skills Section: END -->
+
+
 ### My Toolbox:
 
 <!-- Languages_and_Tools Section: START -->
 - Language: SQL, Python
-- Database: MySQL, PostgreSQL
+- Database: MS SQL Server, PostgreSQL
 - Spreadsheets: Microsoft Excel, Google Sheets
 - Visualization: Power BI, Tableau
 <!-- Languages_and_Tools Section: END -->
