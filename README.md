@@ -7,7 +7,7 @@
 
 
 <!-- Animated Typing: START -->
-[<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FF652F&width=500&lines=I'm+Adeola%2C+a+data+analyst.;Welcome+to+my+Data+Haven!;" />](https://github.com/DenverCoder1/readme-typing-svg)
+[<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FF652F&width=500&lines=I'm+Adeola.;Welcome+to+my+Data+Haven!;" />](https://github.com/DenverCoder1/readme-typing-svg)
 <br />
 <br />
 <!-- Animated Typing: END -->
