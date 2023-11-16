@@ -41,11 +41,10 @@
 ### My Toolbox:
 
 <!-- Languages_and_Tools Section: START -->
-- Microsoft Excel
-- SQL
-- Power BI
-- Tableau
-- Python
+- Language: SQL, Python
+- Database: MySQL, PostgreSQL
+- Spreadsheets: Microsoft Excel, Google Sheets
+- Visualization: Power BI, Tableau
 <!-- Languages_and_Tools Section: END -->
 
 
