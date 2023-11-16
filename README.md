@@ -23,17 +23,17 @@
 - 🔭 I assess, clean, model and analyze data sets to provide insights, transforming them into actionable business solutions.
 - 📊 I visualize data to leverage data-driven decision-making to optimize processes and drive organizational growth.
 - 🌱 I’m currently learning Python and R.
-- 🤝 I’m looking to collaborate with fellow data enthusiasts, analysts, and professionals in the field of data analytics and data science.
+- 📚 Check out my [projects](https://github.com/adeolaosibajo/Portfolio-Projects/blob/8787915501d8e58bb4573d4e6c5da3eeabb920b0/README.md)!
+- 📝 I regularly write articles on [Medium](https://adeolaosibajo.medium.com/).
 - 🥅 2023 Goal: BECOMING
+- 🤝 I’m looking to collaborate with fellow data enthusiasts, analysts, and professionals in the field of data analytics and data science.
 - 🤔 I’m looking for help with job opportunities and collaborations.
 - 💬 Ask me about data analytics.
-- 📝 I regularly write articles on [Medium](https://adeolaosibajo.medium.com/).
 <!--
 - 👨‍💻 All of my projects are available at ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to...
-- 😻 Check out...
 -->
 <!-- About Section: END -->
 
