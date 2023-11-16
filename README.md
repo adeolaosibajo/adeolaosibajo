@@ -44,8 +44,8 @@
 - Microsoft Excel
 - SQL
 - Power BI
-- Python
 - Tableau
+- Python
 <!-- Languages_and_Tools Section: END -->
 
 
